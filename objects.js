@@ -15,6 +15,6 @@ function removeFromPlaylist(playlist, artistName){
   return playlist
 }
 
-playlist = removeFromPlaylist(playlist, Slowdive)
+playlist = removeFromPlaylist(playlist, 'Slowdive')
 
 console.log(playlist)
