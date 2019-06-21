@@ -15,3 +15,5 @@ function removeFromPlaylist(playlist, artistName){
 }
 
 removeFromPlaylist(playlist, "Slowdive")
+
+console.log(playlist)
