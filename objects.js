@@ -13,3 +13,5 @@ console.log(playlist)
 function removeFromPlaylist(playlist, artistName){
   delete playlist.artistName
 }
+
+removeFromPlaylist(playlist, "Slowdive")
