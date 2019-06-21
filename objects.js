@@ -6,4 +6,5 @@ function updatePlaylist(playlist, artist, song){
   return newPlaylist
 }
 
+playlist = updatePlaylist(playlist, 'My Bloody Valentine')
 console.log(playlist)
