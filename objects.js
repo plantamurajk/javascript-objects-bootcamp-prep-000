@@ -6,3 +6,4 @@ function updatePlaylist(playlist, artist, song){
   return newPlaylist
 }
 
+console.log(playlist)
