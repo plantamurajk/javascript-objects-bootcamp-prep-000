@@ -7,5 +7,5 @@ function updatePlaylist(playlist, artist, song){
 }
 
 playlist = updatePlaylist(playlist, 'My Bloody Valentine', 'Sometimes')
-playlist = updatePlaylist(playlist, 'Phil Ochs', "Here")
+playlist = updatePlaylist(playlist, 'Phil Ochs', "Here's to the State of Mississippi")
 console.log(playlist)
